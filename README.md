@@ -1,4 +1,4 @@
-🚕 Ola Cab Ride Analysis & Demand Prediction
+# 🚕 Ola Cab Ride Analysis & Demand Prediction
 SQL + Power BI Project
 
 A complete end-to-end data analytics project using SQL for data manipulation and Power BI for dashboarding, insights, and future demand forecasting—focused on optimizing Ola cab ride services.
@@ -26,7 +26,7 @@ Future Work
 
 Resources & References
 
-🎯 Project Objective
+# 🎯 Project Objective
 The aim of this project is to analyze historical Ola ride data using SQL queries and build a Power BI dashboard that:
 
 Identifies peak demand zones and hours
@@ -47,7 +47,7 @@ Forecast operational needs
 
 Monitor KPIs using live dashboards
 
-🧰 Tech Stack
+# 🧰 Tech Stack
 Tool	Purpose
 SQL	Data cleaning, joins, aggregations
 Power BI	Interactive dashboards and reporting
@@ -71,7 +71,7 @@ pickup_time, drop_time for duration
 
 pickup_zone, drop_zone to create demand maps
 
-📊 Power BI Dashboard
+# 📊 Power BI Dashboard
 Your .pbix file (shared here):
 🔗 Ola Power BI Dashboard (GitHub link)
 
@@ -185,8 +185,8 @@ Pradeep Singh
 
 Data Analyst | Python + SQL + Power BI
 
-LinkedIn
+LinkedIn: https://www.linkedin.com/in/pradeep-singh-585931230/
 
-GitHub
+GitHub: https://github.com/pradeepsingh077
 
 Email: pradeepsingh.psk610@gmail.com
