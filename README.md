@@ -73,7 +73,7 @@ pickup_zone, drop_zone to create demand maps
 
 # 📊 Power BI Dashboard
 Your .pbix file (shared here):
-🔗 Ola Power BI Dashboard (GitHub link)
+🔗 Ola Power BI Dashboard (https://github.com/pradeepsingh077/Ola_projects/blob/main/ola%20project.pbix)
 
 Key dashboard pages:
 
